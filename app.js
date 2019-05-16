@@ -23,10 +23,10 @@ module.exports = function () {
     allowConfigUpdate: true, //set to false to turn off REST endpoint of allowing update of metadata
     waitForMoreResponsesMs: 200,  //milliseconds to wait for additional webhook responses
             
-    amzn_appId: "amzn1.ask.skill.df22d270-6bc3-4a37-8e53-b8d7a1f1717f",
-    channelSecretKey: 'OQt8CkMM9EuatvjKR8IHamrzMgMjzmil', // exxaro
+    amzn_appId: "amzn1.ask.skill.b777ac8b-a875-49be-93c8-189a29678834",
+    channelSecretKey: 'a2gGxGhQ70nQdgGzNccg3QEJivPh0izg', // exxaro
     //ninja botchannelSecretKey: 'AIWvBPHXhxhFdKV47IDu1fF2pxcsvmLn',
-    channelUrl: 'https://b2b34218.ngrok.io/connectors/v1/tenants/chatbot-tenant/listeners/webhook/channels/F2B064FD-6D0E-43B0-A0BF-22766F4C2775'        
+    channelUrl: 'https://b2b34218.ngrok.io/connectors/v1/tenants/chatbot-tenant/listeners/webhook/channels/DB43DE4F-BA96-43C6-B92F-7808B75936CB'        
     //ninja bot channelUrl: 'https://b2b34218.ngrok.io/connectors/v1/tenants/chatbot-tenant/listeners/webhook/channels/E78A0816-F388-4C3E-AF93-1D1C543E931A'        
     // channelUrl: 'https://b2b34218.ngrok.io/connectors/v1/tenants/chatbot-tenant/listeners/webhook/channels/E78A0816-F388-4C3E-AF93-1D1C543E931A'    
     // channelUrl: 'https://e87476aa.ngrok.io/connectors/v1/tenants/chatbot-tenant/listeners/webhook/channels/AE1803AB-3A46-4A40-A34A-13B4989C5DD5'
